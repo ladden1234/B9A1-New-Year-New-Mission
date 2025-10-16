@@ -1,0 +1,472 @@
+
+
+.merriweather-merri {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+.inter-inter1 {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+main{
+    max-width:1320px;
+  margin:0px auto ;
+ 
+
+}
+
+
+.happy{
+
+
+color: rgba(7, 2, 17, 0);
+
+background-image:linear-gradient(rgba(7, 2, 17, 1),rgba(7, 2, 17, 0)), url('../resources/Banner\ Image.png');
+background-position: center;
+/* width: 1320px; */
+height: 600px;
+margin: 0px;
+/* align-items: center; */
+margin-top: 50px;
+background-repeat: no-repeat;
+border-radius: 16px;
+
+}
+.new{
+  /* margin: 0px; */
+font-size: 36px;
+color: #FFFFFF;
+margin-bottom: 16px;
+
+
+}
+.Celebration{
+  font-weight: bolder;
+  font-size: 72px;
+  color: #FFFFFF;
+}
+
+
+.celenew{
+  text-align: center;
+
+  padding: 170px 344px 177px 344px;
+}
+.banner{
+
+  color: rgba(7, 2, 17, 100);
+
+}
+
+
+
+.holiday{
+  text-align: center;
+}
+
+.subscribe{
+
+  font-weight: 900px;
+
+  font-size:55px ;
+  color: #070211;
+}
+
+.eget{
+
+font-weight: 600px;
+font-size: 30px;
+color: rgba(7, 2, 17, 0.6);
+
+}
+
+
+.offer{
+  font-weight: bolder;
+  font-size: 100px;
+  color: #FF0000;
+  margin-top: 120px;
+  margin-bottom: 48px;
+}
+.deals{
+  font-weight: 400px;
+  font-size: 24px;
+  color: #FF0000;
+  margin-bottom: 16px;
+}
+.catagori{
+  font-weight: bold;
+  font-size: 48px;
+  color: rgba(7, 2, 17, 1);
+}
+
+.welcomesection{
+background-image:linear-gradient(rgba(7, 2, 17, 1),rgba(7, 2, 17, 0.05)), url('../resources/Vectorrr.png');
+height: 600px;
+width: 1320px;
+border-radius: 10px;
+}
+.welcomemidnight{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.welcomedescription{
+  margin-top: 0px;
+  margin-left: 126px;
+  /* text-align: center; */
+}
+
+.Twentyfour{
+
+  margin: 68px 138px 67px 39px;
+}
+
+.party{
+
+  font-weight: bolder;
+  font-size: 64px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.dolor{
+font-size: 22px;
+ color: rgba(255, 255, 255, 0.8);
+margin-right: 39px;
+margin-bottom: 32px;
+margin-top: 24px;
+
+
+}
+
+.Join{
+  font-weight: bold;
+  font-size: 30px;
+  /* margin-left: 50px; */
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.place{
+
+  font-weight: 700px;
+  font-size: 38px;
+  color: #070211;
+}
+.join1{
+  font-weight: bold;
+  font-size: 20px;
+  padding: 16px 32px 16px 32px;
+}
+.hotel{
+  
+  text-align: center;
+  padding: 100px 380px;
+
+
+}
+
+
+.plannig{
+height: 482px;
+ background-image: linear-gradient(rgb(184, 75, 75),rgba(195, 7, 7, 0));
+border-radius: 16px;
+margin-top: 120px;
+/* background-color: linear-gradient(rgb(184, 75, 75),rgba(195, 7, 7, 0)); */
+}
+
+.parrentcoming{
+display: flex;
+align-items: center;
+
+}
+
+.offer{
+justify-content: space-evenly;
+
+}
+
+.coming{
+  padding: 104px 70px 104px 0px;
+}
+
+.yearpar{
+  padding: 112px 0px 181px 180px;
+}
+.elepis{
+padding: 49px;
+width: 364px;
+  height: 364px;
+
+
+}
+
+.borderradius{
+  
+border: 100px;
+color: #FF0000;
+
+}
+
+.best{
+  font-weight:600px;
+  font-size:30px ;
+}
+.soon{
+font-weight:bolder ;
+font-size:48px ;
+
+}
+
+.offerdescription{
+font-weight: 400px;
+font-size: 20px;
+color: rgba(7, 2, 17, 0.6);
+
+}
+
+.year{
+font-weight: 48px;
+font-size: 48px;
+color: #FF0000;
+}
+
+.yeardescription{
+font-size: 20px;
+color: rgba(7, 2, 17, 0.6);
+
+}
+.boxes{
+  display: flex;
+ justify-content: space-between;
+ align-items: end;
+
+
+}
+
+
+
+
+.girlsphoto{
+
+  width: 429px;
+  height: 433px;
+}
+
+.recatngle1{
+
+  width: 674px;
+  height: 577px;
+}
+
+.girlcombine{
+display: flex;
+  align-items:end;
+  
+}
+
+.circle{
+
+  width: 220px;
+  height: 220px;
+ 
+}
+
+.recatngle2{
+  width: 1320px;
+}
+
+.bagshoe{
+  display: flex;
+}
+
+.juwelary{
+  display: flex;
+}
+
+.FUNCTIONAL{
+  font-weight: 500px;
+ color:#070211;
+  font-size: 40px;
+}
+.wholeholi{
+  font-weight: 900px;
+  font-size: 170px;
+}
+
+.holiday1{
+  color: #FF0000;
+}
+.sale{
+  color: #070211;
+}
+
+.amet{
+
+ font-weight: 500px;
+  font-size: 50px;
+  color: rgba(7, 2, 17, 0.6);
+}
+.parentfunctional{
+
+  text-align: center;
+
+}
+
+.best1{
+
+  font-weight: 500px;
+  font-size:34px ;
+  color: #FF0000;
+}
+
+.Awesome{
+
+  font-weight: 900px;
+  font-size: 58px;
+  color: rgba(7, 2, 17, 1);
+}
+.consec{
+  font-weight: 400px;
+  font-size: 40px;
+  color: rgba(7, 2, 17, 0.6);
+}
+
+.newleter{
+
+  margin-top: 120px;
+}
+
+.parentsubscribe{
+
+  text-align: center;
+  padding-top: 80px;
+  margin-bottom: 80px;
+  
+}
+
+.search1{
+ 
+}
+
+.parentsearch{
+  display: flex;
+   
+   justify-content: center;
+   /* border-collapse: collapse; */
+   border: none;
+   margin-top: 48px;
+  
+}
+.search1{
+  height: 72px;
+  width: 684px;
+  border-bottom-left-radius: 40px;
+  border-top-left-radius: 40px;
+}
+.submit{
+  height: 72px;
+  width: 300px;
+  background-color: #FF0000;
+  color: #FFFFFF;
+  border-bottom-right-radius: 40px;
+  border-top-right-radius: 40px;
+}
+.newleter{
+width: 1320px;
+height: 616px;
+border-radius: 16px;
+  background-color: rgba(255, 0, 0, 0.05);
+}
+
+.foot{
+
+  background-color:#070211 ;
+  max-width:1600px;
+   /* max-width:1320px; */
+  margin:0px auto ;
+ /* text-align: center; */
+ height: 609px;
+ margin-top: 120px;
+}
+
+.parentsec{
+padding: 120px 140px 140px 140px;
+
+}
+.roo{
+  font-weight: 500;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.parentbig{
+  display: flex;
+  justify-content: space-between;
+}
+
+.filt{
+text-align: center;
+/* margin-left:15px ; */
+
+}
+
+.fli{
+  margin-right: 15px;
+}
+
+.Aun{
+display: flex;
+  justify-content: space-between;
+  
+}
+
+.parentall{
+max-width: 1600px;
+margin: 0 auto;
+background-color: #FFFFFF;
+border: 10px;
+
+}
+
+
+.submit{
+font-weight: 600px;
+
+font-size: 25px;
+
+color: #FFFFFF;
+
+}
+
+.search1{
+font-weight: 500px;
+font-size: 20px;
+color: rgba(7, 2, 17, 0.3);
+
+
+}
+
+
+.Recthover{
+color: #FF0000;
+transition: 0.5s;
+
+
+}
+
+.Recthover:hover{
+  color: aqua;
+
+  transform: (1.1);
+}
